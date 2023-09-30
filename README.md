@@ -1,5 +1,5 @@
-# Custome Components HA
-Personalized customizations of HA integrations
+# Custome Entur
+Entur custome integration
 
 sensor:
   - platform: entur_custome
