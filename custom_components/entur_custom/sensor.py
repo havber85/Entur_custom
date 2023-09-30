@@ -7,7 +7,7 @@ from random import randint
 from enturclient import EnturPublicTransportData
 import voluptuous as vol
 
-from homeassistant.components.sensor import PLATFORM_SCHEMA, SensorEntity
+from homeassistant.custome_components.entur_custom.sensor import PLATFORM_SCHEMA, SensorEntity
 from homeassistant.const import (
     CONF_LATITUDE,
     CONF_LONGITUDE,
