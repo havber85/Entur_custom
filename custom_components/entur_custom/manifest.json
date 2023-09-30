@@ -1,6 +1,6 @@
 {
-  "domain": "entur_custome",
-  "name": "Entur",
+  "domain": "entur_custom",
+  "name": "Entur Custom",
   "codeowners": ["@havber85"],
   "documentation": "https://www.home-assistant.io/integrations/entur_public_transport",
   "iot_class": "cloud_polling",

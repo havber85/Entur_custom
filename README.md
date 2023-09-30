@@ -1,8 +1,8 @@
-# Custome Entur
-Entur custome integration
+# Custom Entur
+Entur custom integration
 
 sensor:
-  - platform: entur_custome
+  - platform: entur_custom
     name: Kollektiv
     expand_platforms: false
     show_on_map: true
